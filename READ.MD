@@ -16,3 +16,5 @@ Mentors-Name,Age,Locality,Qualification,Willing to travel/otherwise,Email,Phone.
 MADHURIMA AND ANCHIT WILL BE RESPONSIBLE FOR THE DESIGNS.
 Header and Footer common for all pages.With the background as purple and theme aligned to the colors in the logo.
 Please make sure you use HTML,CSS,BOOTSTRAP and JAVASCRIPT and no other technology.
+
+View the site at [ https://nimmo1993.github.io/GoGals/](GoGals)
