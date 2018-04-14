@@ -142,3 +142,14 @@ body , html{
 
 
  }
+
+.banner {
+	
+	text-align: center; 
+
+	position: relative;
+
+height:10px !imporant;
+width:10px !important;
+	}
+
