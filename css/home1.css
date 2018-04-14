@@ -39,11 +39,10 @@ body , html{
 	
 }
 .content{
-	
+	margin-top: -24em;
 	z-index: 1000;
 	opacity: .7;
-	margin-top: -24em;
-	margin-left: 35.5em;
+	text-align: center;
 }
 .box{
 	-webkit-transition:all .5s;
@@ -53,6 +52,8 @@ body , html{
 	text-align: center;
 	box-shadow: 1px 1px 5px #fffbe3;
 	font-weight: 700;
+	postition:absolute!important;
+	
 
 }
 .box:hover{
@@ -152,8 +153,8 @@ body , html{
 
 	position: relative;
 
-height:10px !imporant;
-width:10px !important;
+	height:10px !important;
+	width:10px !important;
 	}
 
 
