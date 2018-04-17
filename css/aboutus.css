@@ -1,0 +1,150 @@
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+
+.purple{
+    color:#6a425c;
+}
+.letterSpace{
+    letter-spacing: 1vw;
+}
+.skinBackground{
+    background-color:#fffbe3
+}
+.railway{
+    font-family: 'Raleway', sans-serif;
+    font-size: 270%;
+}
+.welcome{
+    font-family: 'Montserrat', sans-serif;;
+}
+.navbar-brand{
+    font-size: 180%;
+}
+.nav-item{
+    font-size: 130%;
+}
+.purpleBackground{
+    background-color: #6a425c;
+}
+.skin{
+    color:#fffbe3 ;
+}
+.image{
+    border-radius: 300px;
+    width: 60% !important;;
+}
+.hindi{
+    font-family: 'Hind Siliguri', sans-serif;
+}
+.copper{
+    color: #202030;
+    font-weight: bolder;
+    font-family: monospace;
+}
+.icon{
+    width: 8%;
+}
+.heading{
+    font-size: 220%;
+}
+.vision{
+    font-size: 160%;
+}
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    color: gray !important;
+    font-weight: bolder;
+}
+::-moz-placeholder { /* Firefox 19+ */
+    color: black !important;
+    font-weight: 100;
+}
+:-ms-input-placeholder { /* IE 10+ */
+    color: black !important;
+    font-weight: 100;
+}
+:-moz-placeholder { /* Firefox 18- */
+    color: black !important;
+    font-weight: 100;
+}
+.contact-input{
+    width: 45% !important;
+    margin: auto;
+}
+.profile{
+    width: 60%;
+    border-radius: 20px;
+}
+#teamRow{
+    padding-bottom:0.5%;
+}
+#messageRow{
+    padding-bottom:3%
+}
+#introRow{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    margin-top: 3%;
+}
+.personName{
+    font-size: 180%;
+}
+.logo{
+    font-size: 200% !important;
+}
+.sendMsgHeading{
+    padding-top: 3%;
+}
+@media (max-width: 544px) {
+
+    .letterSpace{
+        letter-spacing: 0;
+    }
+    .mainheading{
+        font-size: 200%;
+    }
+    .heading{
+        font-size: 190%;
+    }
+    .vision{
+        font-size: 120%;
+        margin-bottom: 5%;
+    }
+    .contact-input{
+        width:70% !important;
+    }
+    .submit-contact{
+        width: 30% !important;
+    }
+    #visionCol{
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+    #teamRow{
+        padding-bottom: 15%;
+    }
+    #messageRow{
+        padding-bottom: 12%;
+    }
+    #introRow{
+        padding-top: 15%;
+        padding-bottom: 13%;
+        margin-top: 15%;
+    }
+    .personName{
+        font-size: 120%;
+    }
+    .logo{
+        font-size: 140% !important;
+    }
+    .sendMsgHeading{
+        padding-top: 15%;
+    }
+}
